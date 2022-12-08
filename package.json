@@ -5,7 +5,7 @@
   "homepage":"https://lifeisajourney.github.io/my-portfolio/public/index.html",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "nodemon": "^1.18.4",
     "pg": "^7.4.3",
     "react": "^16.5.2",
